@@ -1,6 +1,5 @@
 # Grupo-6-AED
-
-Comision 1K4 - Grupo 6 AED
+Segundo Trabajo Integrador - Comision 1K4
 
 Integrantes:
 
